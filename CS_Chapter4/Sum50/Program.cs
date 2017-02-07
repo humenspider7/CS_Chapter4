@@ -10,6 +10,10 @@ namespace Sum50
     {
         static void Main(string[] args)
         {
+            for(int i =1; i <= 50; i++)
+            {
+                Console.WriteLine()
+            }
         }
     }
 }
