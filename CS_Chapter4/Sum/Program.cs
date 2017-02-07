@@ -10,6 +10,12 @@ namespace Sum
     {
         static void Main(string[] args)
         {
+            while(true)
+            {
+                string val = Console.ReadLine();
+                int i = Convert.ToInt32(val);
+
+            }
         }
     }
 }

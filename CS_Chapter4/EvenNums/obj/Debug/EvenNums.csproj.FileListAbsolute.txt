@@ -4,3 +4,6 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\EvenNums\bin\Debug\Even
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\EvenNums\bin\Debug\EvenNums.pdb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\EvenNums\obj\Debug\EvenNums.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\EvenNums\obj\Debug\EvenNums.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\EvenNums\bin\Debug\EvenNums.exe.config
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\EvenNums\obj\Debug\EvenNums.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\EvenNums\obj\Debug\EvenNums.pdb
