@@ -22,7 +22,6 @@ namespace GetVowel
                     break;
                 else Console.WriteLine("No");
 
-                //error with the else statement.  It shows up even if a vowel is entered;
             }
         }
     }

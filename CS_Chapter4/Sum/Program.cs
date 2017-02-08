@@ -10,12 +10,17 @@ namespace Sum
     {
         static void Main(string[] args)
         {
-            while(true)
+            //DONE
+            int sum=0;
+            int input = 0;
+            while(input!= 999)
             {
-                string val = Console.ReadLine();
-                int i = Convert.ToInt32(val);
-
+                Console.WriteLine("Enter input: ");
+                string enter = Console.ReadLine();
+                input = Convert.ToInt32(enter);
+                sum = sum + input;
             }
+            Console.WriteLine((sum - 999));
         }
     }
 }
