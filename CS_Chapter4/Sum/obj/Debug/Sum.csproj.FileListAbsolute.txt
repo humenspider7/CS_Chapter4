@@ -4,3 +4,9 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\bin\Debug\Sum.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\bin\Debug\Sum.pdb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\obj\Debug\Sum.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\obj\Debug\Sum.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\bin\Debug\Sum.exe.config
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\obj\Debug\Sum.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\obj\Debug\Sum.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\bin\Debug\Sum.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\bin\Debug\Sum.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\Sum\obj\Debug\Sum.csprojResolveAssemblyReference.cache

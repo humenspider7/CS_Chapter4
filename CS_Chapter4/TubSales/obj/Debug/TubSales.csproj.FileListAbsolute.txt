@@ -4,3 +4,9 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\bin\Debug\TubS
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\obj\Debug\TubSales.csprojResolveAssemblyReference.cache
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\obj\Debug\TubSales.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\obj\Debug\TubSales.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\bin\Debug\TubSales.exe.config
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\obj\Debug\TubSales.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\obj\Debug\TubSales.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\bin\Debug\TubSales.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\bin\Debug\TubSales.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\TubSales\obj\Debug\TubSales.csprojResolveAssemblyReference.cache

@@ -4,3 +4,9 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\bin
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\obj\Debug\MultiplicationTable.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\Yusuf\Documents\GitHub\CS_Chapter4\CS_Chapter4\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache

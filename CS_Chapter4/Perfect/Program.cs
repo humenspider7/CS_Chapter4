@@ -10,9 +10,19 @@ namespace Perfect
     {
         static void Main(string[] args)
         {
-            for(int i = 0; i <= 1000; i++)
+            int num = 1000, count = 0;
+            for (int i = 1; i < num; i++)
             {
-
+                count = 0;
+                for (int p = 1; p < i; p++)
+                {
+                    if (i % p == 0)
+                    {
+                        count = count + p;
+                    }
+                }
+                if (count == i)
+                    Console.WriteLine(i);
             }
         }
     }
